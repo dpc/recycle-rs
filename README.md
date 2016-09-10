@@ -1,4 +1,4 @@
-# Recycyle - recycle owned values to avoid allocating
+# Recycle - recycle owned values to avoid allocating
 
 
 Status: just a prototype to benchmark the idea
